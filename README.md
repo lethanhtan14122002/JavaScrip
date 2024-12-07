@@ -38,8 +38,6 @@ Nhóm Cherry bao gồm các thành viên đam mê phát triển phần mềm và
 
 - Số điện thoại :0364273884
 
-- Email: info@cherryteam.com
-
 - GitHub: [CherryTeam](https://github.com/lethanhtan14122002/DA.NNPTUDM)
 
 ---
