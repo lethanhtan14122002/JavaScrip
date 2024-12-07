@@ -17,28 +17,29 @@
 
 ## Giới thiệu
 
-<<<<<<< HEAD
+
 Nhóm Cherry bao gồm 4 thành viên đam mê phát triển phần mềm và cải tiến công nghệ. Chúng tôi hợp tác cùng nhau trong việc tạo ra các dự án độc đáo và sáng tạo để giải quyết các vấn đề thực tiễn thông qua công nghệ.
 
 ## Các dự án 
-=======
+
 Nhóm Cherry bao gồm các thành viên đam mê phát triển phần mềm và cải tiến công nghệ. Chúng tôi hợp tác cùng nhau trong việc tạo ra các dự án độc đáo và sáng tạo để giải quyết các vấn đề thực tiễn thông qua công nghệ.
 
 ## Các dự án khác như java , php.
-=======
+
 - Dự án 1 : [Java](https://github.com/lethanhtan14122002/Java/tree/master)
-=======
+
 - Dự án 2 : [PHP](https://github.com/lethanhtan14122002/DA.PHP)
 
 ## Liên hệ
 
 Để biết thêm thông tin, xin vui lòng liên hệ với chúng tôi qua:
-=======
+
 - Email: lethanhtan14122002@gmail.com
+
 - Số điện thoại :0364273884
-=======
+
 - Email: info@cherryteam.com
-=======
+
 - GitHub: [CherryTeam](https://github.com/lethanhtan14122002/DA.NNPTUDM)
 
 ---
