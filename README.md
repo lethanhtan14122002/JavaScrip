@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nhóm Cherry :cherries:
+#Cherry :cherries:
 
 ### Chào mừng đến với kho lưu trữ của chúng tôi!
 
