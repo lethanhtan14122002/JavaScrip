@@ -6,14 +6,10 @@
 
 </div>
 
-## Thành viên trong nhóm
-
 | Họ và Tên          | Mã Sinh Viên |
 | ------------------ | ------------ |
 | Lê Thanh Tân       | 2011068492   |
-| Nguyễn Văn Trưng   | 2011068559   |
-| Nguyễn Nhựt Trường | 2011068561   |
-| Phạm Minh Quốc     | 2011068467   |
+
 
 ## Giới thiệu
 
